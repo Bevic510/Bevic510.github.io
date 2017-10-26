@@ -1,0 +1,47 @@
+<DOCTYPEhtlm>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Christen's Blog </title>
+		<style type="text/css">
+		
+	h1 {
+		color: purple
+	}
+	h2 {
+		color: yellow;
+	}
+	p {color:green;
+
+	}
+</style>
+<link rel="style" href="style.css">
+</head>
+
+<body>
+
+<p><h1>About Me</h1></p>
+	<p>I do not know what to write about myself, so I guess I'll just give you some background information. I am currently attending The New School, I'm a junior, or senior- I transferred, I'm not even sure anymore since my credits got all wonky- and I am twenty-six years old. Way too old to be still going for my bachelors, but whatever. I was an anthropology major at St.John's and was very close to graduating but things happened and now I am here as a Liberal Arts student. </p>
+
+	<p> <strong>ANYWAY</strong> I am really into all sorts of animals/creatures, food and writing. That's pretty much me in a nutshell. I can speak Japanese and I play a lot of video games as well as eat an unhealthy amount of hot cheetos and drink barrels worth of coffee every day.
+
+	<p>Here are some things that I like. </p>
+
+	<p><h1><strong>Pigeons</strong></h1></p>
+
+	</p>
+	<img src="pigeon.png" alt="pigeon">
+	<p> I just love them. The way they bob their heads when they walk is the best thing in the world. The brown ones are the best though.</p>
+
+	<p><h1><strong>Cheese</strong></h1></p>
+
+	<img src="cheese.jpg" alt="cheese">
+
+	<p>I love cheese. I am more of a fan of weird or expensive cheese, but I'd also be happy to eat an entire block of swiss. My personal favorite is Manchego though! The more aged the better. </p>
+
+	<p><h1><strong>Writing</strong></h1></p>
+
+	<img src="shiningnovel.jpg" alt="theshining">
+
+	<p>I love writing and reading. My favorite things to read are horror novels and food literature. </p>
+
